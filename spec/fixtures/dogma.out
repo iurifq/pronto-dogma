@@ -1,0 +1,317 @@
+lib/tentacat.ex:79:1: W: Arity of `request_stream` should be less than 4 (was 5).
+lib/tentacat.ex:75:1: W: Arity of `raw_request` should be less than 4 (was 5).
+lib/tentacat.ex:67:1: W: Arity of `json_request` should be less than 4 (was 5).
+lib/tentacat.ex:192:1: W: Useless string interpolation detected.
+lib/tentacat.ex:14:1: W: Line length should not exceed 80 chars (was 83).
+lib/tentacat.ex:15:1: W: Line length should not exceed 80 chars (was 109).
+lib/tentacat.ex:38:1: W: Line length should not exceed 80 chars (was 89).
+lib/tentacat.ex:39:1: W: Line length should not exceed 80 chars (was 95).
+lib/tentacat.ex:41:1: W: Line length should not exceed 80 chars (was 96).
+lib/tentacat.ex:42:1: W: Line length should not exceed 80 chars (was 104).
+lib/tentacat.ex:43:1: W: Line length should not exceed 80 chars (was 95).
+lib/tentacat.ex:46:1: W: Line length should not exceed 80 chars (was 100).
+lib/tentacat.ex:76:1: W: Line length should not exceed 80 chars (was 86).
+lib/tentacat.ex:83:1: W: Line length should not exceed 80 chars (was 93).
+lib/tentacat.ex:93:1: W: Line length should not exceed 80 chars (was 94).
+lib/tentacat.ex:108:1: W: Line length should not exceed 80 chars (was 99).
+lib/tentacat.ex:110:1: W: Line length should not exceed 80 chars (was 107).
+lib/tentacat.ex:117:1: W: Line length should not exceed 80 chars (was 92).
+lib/tentacat.ex:123:1: W: Line length should not exceed 80 chars (was 84).
+lib/tentacat.ex:140:1: W: Line length should not exceed 80 chars (was 84).
+lib/tentacat.ex:180:1: W: Line length should not exceed 80 chars (was 97).
+lib/tentacat.ex:184:1: W: Line length should not exceed 80 chars (was 87).
+lib/tentacat.ex:186:1: W: Line length should not exceed 80 chars (was 138).
+lib/tentacat.ex:190:1: W: Line length should not exceed 80 chars (was 85).
+lib/tentacat.ex:206:1: W: Line length should not exceed 80 chars (was 83).
+lib/tentacat.ex:228:1: W: Line length should not exceed 80 chars (was 89).
+lib/tentacat.ex:230:1: W: Line length should not exceed 80 chars (was 83).
+lib/tentacat.ex:1:1: W: Module Tentacat is missing a @moduledoc.
+lib/tentacat.ex:55:1: W: Function Pipe Chains must start with a bare value
+lib/tentacat.ex:57:1: W: Function Pipe Chains must start with a bare value
+lib/tentacat.ex:76:1: W: Function Pipe Chains must start with a bare value
+lib/tentacat.ex:80:1: W: Function Pipe Chains must start with a bare value
+lib/tentacat.ex:98:1: W: Function Pipe Chains must start with a bare value
+lib/tentacat.ex:123:1: W: Function Pipe Chains must start with a bare value
+lib/tentacat/client.ex:8:1: W: Functions declarations should have parentheses if and only if they have arguments
+lib/tentacat/client.ex:1:1: W: Module Tentacat.Client is missing a @moduledoc.
+lib/tentacat/commits.ex:43:1: W: Arity of `compare` should be less than 4 (was 5).
+lib/tentacat/commits.ex:12:1: W: Line length should not exceed 80 chars (was 91).
+lib/tentacat/commits.ex:26:1: W: Line length should not exceed 80 chars (was 82).
+lib/tentacat/commits.ex:40:1: W: Line length should not exceed 80 chars (was 82).
+lib/tentacat/commits.ex:1:1: W: Module Tentacat.Commits is missing a @moduledoc.
+lib/tentacat/commits/comments.ex:86:1: W: Arity of `update` should be less than 4 (was 5).
+lib/tentacat/commits/comments.ex:52:1: W: Arity of `create` should be less than 4 (was 5).
+lib/tentacat/commits/comments.ex:12:1: W: Line length should not exceed 80 chars (was 101).
+lib/tentacat/commits/comments.ex:24:1: W: Line length should not exceed 80 chars (was 104).
+lib/tentacat/commits/comments.ex:26:1: W: Line length should not exceed 80 chars (was 97).
+lib/tentacat/commits/comments.ex:47:1: W: Line length should not exceed 80 chars (was 120).
+lib/tentacat/commits/comments.ex:49:1: W: Line length should not exceed 80 chars (was 87).
+lib/tentacat/commits/comments.ex:51:1: W: Line length should not exceed 80 chars (was 81).
+lib/tentacat/commits/comments.ex:63:1: W: Line length should not exceed 80 chars (was 91).
+lib/tentacat/commits/comments.ex:83:1: W: Line length should not exceed 80 chars (was 87).
+lib/tentacat/commits/comments.ex:85:1: W: Line length should not exceed 80 chars (was 91).
+lib/tentacat/commits/comments.ex:97:1: W: Line length should not exceed 80 chars (was 87).
+lib/tentacat/commits/comments.ex:1:1: W: Module Tentacat.Commits.Comments is missing a @moduledoc.
+lib/tentacat/commits/comments.ex:89:1: W: Trailing whitespace detected
+lib/tentacat/commits/comments.ex:69:1: W: Trailing whitespace detected
+lib/tentacat/commits/comments.ex:55:1: W: Trailing whitespace detected
+lib/tentacat/commits/comments.ex:32:1: W: Trailing whitespace detected
+lib/tentacat/contents.ex:110:1: W: Arity of `remove` should be less than 4 (was 5).
+lib/tentacat/contents.ex:84:1: W: Arity of `update` should be less than 4 (was 5).
+lib/tentacat/contents.ex:57:1: W: Arity of `create` should be less than 4 (was 5).
+lib/tentacat/contents.ex:31:1: W: Arity of `find_in` should be less than 4 (was 5).
+lib/tentacat/contents.ex:21:1: W: Line length should not exceed 80 chars (was 82).
+lib/tentacat/contents.ex:26:1: W: Line length should not exceed 80 chars (was 82).
+lib/tentacat/contents.ex:52:1: W: Line length should not exceed 80 chars (was 85).
+lib/tentacat/contents.ex:56:1: W: Line length should not exceed 80 chars (was 81).
+lib/tentacat/contents.ex:79:1: W: Line length should not exceed 80 chars (was 85).
+lib/tentacat/contents.ex:83:1: W: Line length should not exceed 80 chars (was 81).
+lib/tentacat/contents.ex:105:1: W: Line length should not exceed 80 chars (was 85).
+lib/tentacat/contents.ex:109:1: W: Line length should not exceed 80 chars (was 81).
+lib/tentacat/contents.ex:1:1: W: Module Tentacat.Contents is missing a @moduledoc.
+lib/tentacat/emails.ex:12:1: W: Line length should not exceed 80 chars (was 92).
+lib/tentacat/emails.ex:40:1: W: Line length should not exceed 80 chars (was 83).
+lib/tentacat/emails.ex:1:1: W: Module Tentacat.Users.Emails is missing a @moduledoc.
+lib/tentacat/feeds.ex:5:1: W: Line length should not exceed 80 chars (was 132).
+lib/tentacat/feeds.ex:11:1: W: Line length should not exceed 80 chars (was 89).
+lib/tentacat/feeds.ex:12:1: W: Line length should not exceed 80 chars (was 111).
+lib/tentacat/feeds.ex:13:1: W: Line length should not exceed 80 chars (was 140).
+lib/tentacat/feeds.ex:1:1: W: Module Tentacat.Feeds is missing a @moduledoc.
+lib/tentacat/feeds.ex:25:1: W: Blank lines detected at end of file
+lib/tentacat/followers.ex:12:1: W: Line length should not exceed 80 chars (was 99).
+lib/tentacat/followers.ex:29:1: W: Line length should not exceed 80 chars (was 99).
+lib/tentacat/followers.ex:31:1: W: Line length should not exceed 80 chars (was 82).
+lib/tentacat/followers.ex:34:1: W: Line length should not exceed 80 chars (was 112).
+lib/tentacat/followers.ex:45:1: W: Line length should not exceed 80 chars (was 88).
+lib/tentacat/followers.ex:59:1: W: Line length should not exceed 80 chars (was 88).
+lib/tentacat/followers.ex:72:1: W: Line length should not exceed 80 chars (was 98).
+lib/tentacat/followers.ex:85:1: W: Line length should not exceed 80 chars (was 98).
+lib/tentacat/followers.ex:1:1: W: Module Tentacat.Users.Followers is missing a @moduledoc.
+lib/tentacat/gitignore.ex:13:1: W: Line length should not exceed 80 chars (was 85).
+lib/tentacat/gitignore.ex:1:1: W: Module Tentacat.Gitignore is missing a @moduledoc.
+lib/tentacat/gitignore.ex:36:1: W: Blank lines detected at end of file
+lib/tentacat/hooks.ex:68:1: W: Arity of `update` should be less than 4 (was 5).
+lib/tentacat/hooks.ex:5:1: W: Line length should not exceed 80 chars (was 105).
+lib/tentacat/hooks.ex:63:1: W: Line length should not exceed 80 chars (was 82).
+lib/tentacat/hooks.ex:67:1: W: Line length should not exceed 80 chars (was 85).
+lib/tentacat/hooks.ex:73:1: W: Line length should not exceed 80 chars (was 117).
+lib/tentacat/hooks.ex:74:1: W: Line length should not exceed 80 chars (was 116).
+lib/tentacat/issues/comments.ex:99:1: W: Arity of `delete` should be less than 4 (was 5).
+lib/tentacat/issues/comments.ex:85:1: W: Arity of `update` should be less than 4 (was 6).
+lib/tentacat/issues/comments.ex:64:1: W: Arity of `create` should be less than 4 (was 5).
+lib/tentacat/issues/comments.ex:12:1: W: Line length should not exceed 80 chars (was 90).
+lib/tentacat/issues/comments.ex:20:1: W: Line length should not exceed 80 chars (was 103).
+lib/tentacat/issues/comments.ex:26:1: W: Line length should not exceed 80 chars (was 94).
+lib/tentacat/issues/comments.ex:59:1: W: Line length should not exceed 80 chars (was 81).
+lib/tentacat/issues/comments.ex:63:1: W: Line length should not exceed 80 chars (was 91).
+lib/tentacat/issues/comments.ex:80:1: W: Line length should not exceed 80 chars (was 83).
+lib/tentacat/issues/comments.ex:84:1: W: Line length should not exceed 80 chars (was 109).
+lib/tentacat/issues/comments.ex:86:1: W: Line length should not exceed 80 chars (was 90).
+lib/tentacat/issues/comments.ex:98:1: W: Line length should not exceed 80 chars (was 97).
+lib/tentacat/issues/comments.ex:100:1: W: Line length should not exceed 80 chars (was 85).
+lib/tentacat/issues/comments.ex:1:1: W: Module Tentacat.Issues.Comments is missing a @moduledoc.
+lib/tentacat/issues/issues.ex:1:1: W: Module Tentacat.Issues is missing a @moduledoc.
+lib/tentacat/issues/labels.ex:32:1: W: End of file newline missing
+lib/tentacat/issues/labels.ex:29:1: W: Arity of `add` should be less than 4 (was 5).
+lib/tentacat/issues/labels.ex:12:1: W: Line length should not exceed 80 chars (was 86).
+lib/tentacat/issues/labels.ex:26:1: W: Line length should not exceed 80 chars (was 85).
+lib/tentacat/issues/labels.ex:28:1: W: Line length should not exceed 80 chars (was 86).
+lib/tentacat/issues/labels.ex:1:1: W: Module Tentacat.Issues.Labels is missing a @moduledoc.
+lib/tentacat/organizations.ex:62:1: W: Line length should not exceed 80 chars (was 116).
+lib/tentacat/organizations.ex:1:1: W: Module Tentacat.Organizations is missing a @moduledoc.
+lib/tentacat/organizations/members.ex:6:1: W: Line length should not exceed 80 chars (was 120).
+lib/tentacat/organizations/members.ex:90:1: W: Line length should not exceed 80 chars (was 89).
+lib/tentacat/organizations/members.ex:104:1: W: Line length should not exceed 80 chars (was 87).
+lib/tentacat/organizations/members.ex:1:1: W: Module Tentacat.Organizations.Members is missing a @moduledoc.
+lib/tentacat/pulls.ex:120:1: W: Arity of `merge` should be less than 4 (was 5).
+lib/tentacat/pulls.ex:99:1: W: Arity of `update` should be less than 4 (was 5).
+lib/tentacat/pulls.ex:98:1: W: Line length should not exceed 80 chars (was 91).
+lib/tentacat/pulls.ex:117:1: W: Line length should not exceed 80 chars (was 88).
+lib/tentacat/pulls.ex:119:1: W: Line length should not exceed 80 chars (was 90).
+lib/tentacat/pulls.ex:131:1: W: Line length should not exceed 80 chars (was 92).
+lib/tentacat/pulls.ex:133:1: W: Line length should not exceed 80 chars (was 88).
+lib/tentacat/pulls.ex:1:1: W: Module Tentacat.Pulls is missing a @moduledoc.
+lib/tentacat/pulls/comments.ex:84:1: W: Arity of `update` should be less than 4 (was 5).
+lib/tentacat/pulls/comments.ex:70:1: W: Arity of `create` should be less than 4 (was 5).
+lib/tentacat/pulls/comments.ex:13:1: W: Line length should not exceed 80 chars (was 93).
+lib/tentacat/pulls/comments.ex:28:1: W: Line length should not exceed 80 chars (was 95).
+lib/tentacat/pulls/comments.ex:43:1: W: Line length should not exceed 80 chars (was 84).
+lib/tentacat/pulls/comments.ex:65:1: W: Line length should not exceed 80 chars (was 88).
+lib/tentacat/pulls/comments.ex:69:1: W: Line length should not exceed 80 chars (was 91).
+lib/tentacat/pulls/comments.ex:79:1: W: Line length should not exceed 80 chars (was 94).
+lib/tentacat/pulls/comments.ex:83:1: W: Line length should not exceed 80 chars (was 85).
+lib/tentacat/pulls/comments.ex:1:1: W: Module Tentacat.Pulls.Comments is missing a @moduledoc.
+lib/tentacat/pulls/commits.ex:13:1: W: Line length should not exceed 80 chars (was 85).
+lib/tentacat/pulls/commits.ex:1:1: W: Module Tentacat.Pulls.Commits is missing a @moduledoc.
+lib/tentacat/pulls/files.ex:1:1: W: Module Tentacat.Pulls.Files is missing a @moduledoc.
+lib/tentacat/references.ex:73:1: W: Arity of `update` should be less than 4 (was 5).
+lib/tentacat/references.ex:26:1: W: Line length should not exceed 80 chars (was 82).
+lib/tentacat/references.ex:68:1: W: Line length should not exceed 80 chars (was 90).
+lib/tentacat/references.ex:72:1: W: Line length should not exceed 80 chars (was 81).
+lib/tentacat/references.ex:82:1: W: Line length should not exceed 80 chars (was 84).
+lib/tentacat/references.ex:1:1: W: Module Tentacat.References is missing a @moduledoc.
+lib/tentacat/releases.ex:12:1: W: Line length should not exceed 80 chars (was 93).
+lib/tentacat/releases.ex:26:1: W: Line length should not exceed 80 chars (was 83).
+lib/tentacat/releases.ex:43:1: W: Line length should not exceed 80 chars (was 99).
+lib/tentacat/releases.ex:67:1: W: Line length should not exceed 80 chars (was 86).
+lib/tentacat/releases.ex:1:1: W: Module Tentacat.Releases is missing a @moduledoc.
+lib/tentacat/releases/assets.ex:16:1: W: Line length should not exceed 80 chars (was 88).
+lib/tentacat/releases/assets.ex:30:1: W: Line length should not exceed 80 chars (was 89).
+lib/tentacat/releases/assets.ex:42:1: W: Line length should not exceed 80 chars (was 114).
+lib/tentacat/releases/assets.ex:48:1: W: Line length should not exceed 80 chars (was 83).
+lib/tentacat/releases/assets.ex:50:1: W: Line length should not exceed 80 chars (was 82).
+lib/tentacat/releases/assets.ex:51:1: W: Line length should not exceed 80 chars (was 92).
+lib/tentacat/releases/assets.ex:63:1: W: Line length should not exceed 80 chars (was 85).
+lib/tentacat/releases/assets.ex:1:1: W: Module Tentacat.Releases.Assets is missing a @moduledoc.
+lib/tentacat/repositories.ex:5:1: W: Line length should not exceed 80 chars (was 105).
+lib/tentacat/repositories.ex:46:1: W: Line length should not exceed 80 chars (was 85).
+lib/tentacat/repositories.ex:61:1: W: Line length should not exceed 80 chars (was 83).
+lib/tentacat/repositories.ex:65:1: W: Line length should not exceed 80 chars (was 83).
+lib/tentacat/repositories.ex:116:1: W: Line length should not exceed 80 chars (was 99).
+lib/tentacat/repositories/branches.ex:26:1: W: Line length should not exceed 80 chars (was 84).
+lib/tentacat/repositories/branches.ex:1:1: W: Module Tentacat.Repositories.Branches is missing a @moduledoc.
+lib/tentacat/repositories/deployments.ex:77:1: W: Arity of `create_status` should be less than 4 (was 5).
+lib/tentacat/repositories/deployments.ex:13:1: W: Line length should not exceed 80 chars (was 83).
+lib/tentacat/repositories/deployments.ex:34:1: W: Line length should not exceed 80 chars (was 95).
+lib/tentacat/repositories/deployments.ex:36:1: W: Line length should not exceed 80 chars (was 86).
+lib/tentacat/repositories/deployments.ex:48:1: W: Line length should not exceed 80 chars (was 82).
+lib/tentacat/repositories/deployments.ex:49:1: W: Line length should not exceed 80 chars (was 90).
+lib/tentacat/repositories/deployments.ex:51:1: W: Line length should not exceed 80 chars (was 91).
+lib/tentacat/repositories/deployments.ex:53:1: W: Line length should not exceed 80 chars (was 86).
+lib/tentacat/repositories/deployments.ex:72:1: W: Line length should not exceed 80 chars (was 103).
+lib/tentacat/repositories/deployments.ex:74:1: W: Line length should not exceed 80 chars (was 93).
+lib/tentacat/repositories/deployments.ex:76:1: W: Line length should not exceed 80 chars (was 88).
+lib/tentacat/repositories/deployments.ex:1:1: W: Module Tentacat.Repositories.Deployments is missing a @moduledoc.
+lib/tentacat/repositories/merges.ex:19:1: W: Arity of `merge` should be less than 4 (was 6).
+lib/tentacat/repositories/merges.ex:9:1: W: Line length should not exceed 80 chars (was 81).
+lib/tentacat/repositories/merges.ex:12:1: W: Line length should not exceed 80 chars (was 109).
+lib/tentacat/repositories/merges.ex:13:1: W: Line length should not exceed 80 chars (was 139).
+lib/tentacat/repositories/merges.ex:14:1: W: Line length should not exceed 80 chars (was 164).
+lib/tentacat/repositories/merges.ex:18:1: W: Line length should not exceed 80 chars (was 84).
+lib/tentacat/repositories/merges.ex:1:1: W: Module Tentacat.Repositories.Merges is missing a @moduledoc.
+lib/tentacat/repositories/statuses.ex:57:1: W: Arity of `create` should be less than 4 (was 5).
+lib/tentacat/repositories/statuses.ex:10:1: W: Line length should not exceed 80 chars (was 109).
+lib/tentacat/repositories/statuses.ex:11:1: W: Line length should not exceed 80 chars (was 83).
+lib/tentacat/repositories/statuses.ex:12:1: W: Line length should not exceed 80 chars (was 82).
+lib/tentacat/repositories/statuses.ex:14:1: W: Line length should not exceed 80 chars (was 96).
+lib/tentacat/repositories/statuses.ex:26:1: W: Line length should not exceed 80 chars (was 109).
+lib/tentacat/repositories/statuses.ex:27:1: W: Line length should not exceed 80 chars (was 83).
+lib/tentacat/repositories/statuses.ex:28:1: W: Line length should not exceed 80 chars (was 82).
+lib/tentacat/repositories/statuses.ex:30:1: W: Line length should not exceed 80 chars (was 106).
+lib/tentacat/repositories/statuses.ex:52:1: W: Line length should not exceed 80 chars (was 95).
+lib/tentacat/repositories/statuses.ex:56:1: W: Line length should not exceed 80 chars (was 81).
+lib/tentacat/repositories/statuses.ex:1:1: W: Module Tentacat.Repositories.Statuses is missing a @moduledoc.
+lib/tentacat/repositories/tags.ex:1:1: W: Module Tentacat.Repositories.Tags is missing a @moduledoc.
+lib/tentacat/search.ex:13:1: W: Line length should not exceed 80 chars (was 91).
+lib/tentacat/search.ex:14:1: W: Line length should not exceed 80 chars (was 99).
+lib/tentacat/search.ex:29:1: W: Line length should not exceed 80 chars (was 84).
+lib/tentacat/search.ex:43:1: W: Line length should not exceed 80 chars (was 85).
+lib/tentacat/search.ex:44:1: W: Line length should not exceed 80 chars (was 93).
+lib/tentacat/starring.ex:12:1: W: Line length should not exceed 80 chars (was 98).
+lib/tentacat/starring.ex:26:1: W: Line length should not exceed 80 chars (was 98).
+lib/tentacat/starring.ex:1:1: W: Module Tentacat.Users.Starring is missing a @moduledoc.
+lib/tentacat/trees.ex:10:1: W: Line length should not exceed 80 chars (was 93).
+lib/tentacat/trees.ex:11:1: W: Line length should not exceed 80 chars (was 101).
+lib/tentacat/trees.ex:25:1: W: Line length should not exceed 80 chars (was 103).
+lib/tentacat/trees.ex:26:1: W: Line length should not exceed 80 chars (was 111).
+lib/tentacat/trees.ex:28:1: W: Line length should not exceed 80 chars (was 81).
+lib/tentacat/trees.ex:1:1: W: Module Tentacat.Trees is missing a @moduledoc.
+lib/tentacat/users.ex:61:1: W: Line length should not exceed 80 chars (was 84).
+lib/tentacat/users.ex:79:1: W: Line length should not exceed 80 chars (was 81).
+lib/tentacat/users.ex:81:1: W: Line length should not exceed 80 chars (was 83).
+lib/tentacat/users.ex:1:1: W: Module Tentacat.Users is missing a @moduledoc.
+lib/tentacat/users/events.ex:13:1: W: Line length should not exceed 80 chars (was 96).
+lib/tentacat/users/events.ex:28:1: W: Line length should not exceed 80 chars (was 103).
+lib/tentacat/users/events.ex:42:1: W: Line length should not exceed 80 chars (was 96).
+lib/tentacat/users/events.ex:1:1: W: Module Tentacat.Users.Events is missing a @moduledoc.
+lib/tentacat/users/keys.ex:13:1: W: Line length should not exceed 80 chars (was 155).
+lib/tentacat/users/keys.ex:27:1: W: Line length should not exceed 80 chars (was 155).
+lib/tentacat/users/keys.ex:41:1: W: Line length should not exceed 80 chars (was 82).
+lib/tentacat/users/keys.ex:1:1: W: Module Tentacat.Users.Keys is missing a @moduledoc.
+mix.exs:16:1: W: Line length should not exceed 80 chars (was 98).
+test/commits/comments_test.exs:8:1: W: Line length should not exceed 80 chars (was 90).
+test/commits/comments_test.exs:22:1: W: Line length should not exceed 80 chars (was 112).
+test/commits/comments_test.exs:28:1: W: Line length should not exceed 80 chars (was 85).
+test/commits/comments_test.exs:40:1: W: Line length should not exceed 80 chars (was 126).
+test/commits/comments_test.exs:50:1: W: Line length should not exceed 80 chars (was 96).
+test/commits/comments_test.exs:57:1: W: Line length should not exceed 80 chars (was 86).
+test/commits_test.exs:22:1: W: Line length should not exceed 80 chars (was 93).
+test/commits_test.exs:29:1: W: Line length should not exceed 80 chars (was 126).
+test/contents_test.exs:23:1: W: Line length should not exceed 80 chars (was 84).
+test/contents_test.exs:39:1: W: Line length should not exceed 80 chars (was 95).
+test/contents_test.exs:56:1: W: Line length should not exceed 80 chars (was 109).
+test/contents_test.exs:72:1: W: Line length should not exceed 80 chars (was 105).
+test/followers_test.exs:59:1: W: Comparison to a boolean is pointless
+test/followers_test.exs:53:1: W: Comparison to a boolean is pointless
+test/followers_test.exs:47:1: W: Comparison to a boolean is pointless
+test/followers_test.exs:41:1: W: Comparison to a boolean is pointless
+test/hooks_test.exs:50:1: W: Comparison to a boolean is pointless
+test/hooks_test.exs:8:1: W: Line length should not exceed 80 chars (was 90).
+test/hooks_test.exs:38:1: W: Line length should not exceed 80 chars (was 82).
+test/hooks_test.exs:49:1: W: Line length should not exceed 80 chars (was 96).
+test/hooks_test.exs:56:1: W: Line length should not exceed 80 chars (was 83).
+test/hooks_test.exs:63:1: W: Line length should not exceed 80 chars (was 85).
+test/issues/comments_test.exs:8:1: W: Line length should not exceed 80 chars (was 90).
+test/issues/comments_test.exs:28:1: W: Line length should not exceed 80 chars (was 86).
+test/issues/comments_test.exs:36:1: W: Line length should not exceed 80 chars (was 87).
+test/issues/labels_test.exs:8:1: W: Line length should not exceed 80 chars (was 90).
+test/issues/labels_test.exs:22:1: W: Line length should not exceed 80 chars (was 84).
+test/organizations_test.exs:8:1: W: Line length should not exceed 80 chars (was 90).
+test/organizations_test.exs:36:1: W: Line length should not exceed 80 chars (was 89).
+test/pulls/comments_test.exs:8:1: W: Line length should not exceed 80 chars (was 90).
+test/pulls/comments_test.exs:28:1: W: Line length should not exceed 80 chars (was 85).
+test/pulls/comments_test.exs:41:1: W: Line length should not exceed 80 chars (was 87).
+test/pulls/comments_test.exs:51:1: W: Line length should not exceed 80 chars (was 96).
+test/pulls/comments_test.exs:58:1: W: Line length should not exceed 80 chars (was 86).
+test/pulls_test.exs:62:1: W: Comparison to a boolean is pointless
+test/pulls_test.exs:8:1: W: Line length should not exceed 80 chars (was 90).
+test/pulls_test.exs:41:1: W: Line length should not exceed 80 chars (was 82).
+test/pulls_test.exs:51:1: W: Line length should not exceed 80 chars (was 90).
+test/pulls_test.exs:61:1: W: Line length should not exceed 80 chars (was 85).
+test/pulls_test.exs:68:1: W: Line length should not exceed 80 chars (was 84).
+test/references_test.exs:8:1: W: Line length should not exceed 80 chars (was 90).
+test/references_test.exs:22:1: W: Line length should not exceed 80 chars (was 89).
+test/references_test.exs:33:1: W: Line length should not exceed 80 chars (was 82).
+test/references_test.exs:44:1: W: Line length should not exceed 80 chars (was 97).
+test/references_test.exs:51:1: W: Line length should not exceed 80 chars (was 96).
+test/releases/assets_test.exs:8:1: W: Line length should not exceed 80 chars (was 90).
+test/releases/assets_test.exs:16:1: W: Line length should not exceed 80 chars (was 86).
+test/releases/assets_test.exs:23:1: W: Line length should not exceed 80 chars (was 84).
+test/releases/assets_test.exs:30:1: W: Line length should not exceed 80 chars (was 99).
+test/releases/assets_test.exs:37:1: W: Line length should not exceed 80 chars (was 85).
+test/releases_test.exs:8:1: W: Line length should not exceed 80 chars (was 90).
+test/releases_test.exs:22:1: W: Line length should not exceed 80 chars (was 88).
+test/releases_test.exs:29:1: W: Line length should not exceed 80 chars (was 82).
+test/releases_test.exs:37:1: W: Line length should not exceed 80 chars (was 97).
+test/releases_test.exs:44:1: W: Line length should not exceed 80 chars (was 85).
+test/releases_test.exs:49:1: W: Blank lines detected at end of file
+test/repositories/deployments_test.exs:8:1: W: Line length should not exceed 80 chars (was 90).
+test/repositories/deployments_test.exs:27:1: W: Line length should not exceed 80 chars (was 82).
+test/repositories/deployments_test.exs:34:1: W: Line length should not exceed 80 chars (was 86).
+test/repositories/deployments_test.exs:45:1: W: Line length should not exceed 80 chars (was 98).
+test/repositories/deployments_test.exs:23:1: W: Prefer the S sigil for strings containing `"`
+test/repositories/statuses_test.exs:8:1: W: Line length should not exceed 80 chars (was 90).
+test/repositories/statuses_test.exs:16:1: W: Line length should not exceed 80 chars (was 112).
+test/repositories/statuses_test.exs:22:1: W: Line length should not exceed 80 chars (was 121).
+test/repositories/statuses_test.exs:35:1: W: Line length should not exceed 80 chars (was 126).
+test/repositories/tags_test.exs:20:1: W: Blank lines detected at end of file
+test/repositories_test.exs:28:1: W: Line length should not exceed 80 chars (was 89).
+test/repositories_test.exs:35:1: W: Line length should not exceed 80 chars (was 94).
+test/repositories_test.exs:42:1: W: Line length should not exceed 80 chars (was 91).
+test/repositories_test.exs:43:1: W: Line length should not exceed 80 chars (was 87).
+test/repositories_test.exs:51:1: W: Line length should not exceed 80 chars (was 85).
+test/repositories_test.exs:54:1: W: Line length should not exceed 80 chars (was 106).
+test/repositories_test.exs:87:1: W: Line length should not exceed 80 chars (was 90).
+test/search_test.exs:18:1: W: Line length should not exceed 80 chars (was 83).
+test/search_test.exs:25:1: W: Line length should not exceed 80 chars (was 84).
+test/search_test.exs:32:1: W: Line length should not exceed 80 chars (was 91).
+test/tentacat_test.exs:16:1: W: Line length should not exceed 80 chars (was 127).
+test/tentacat_test.exs:20:1: W: Line length should not exceed 80 chars (was 103).
+test/tentacat_test.exs:33:1: W: Line length should not exceed 80 chars (was 81).
+test/users/keys_test.exs:41:1: W: Comparison to a boolean is pointless
+test/users/keys_test.exs:8:1: W: Line length should not exceed 80 chars (was 90).
+test/users/keys_test.exs:54:1: W: Line length should not exceed 80 chars (was 102).
+test/users/keys_test.exs:55:1: W: Line length should not exceed 80 chars (was 142).
+test/users_test.exs:43:1: W: Comparison to a boolean is pointless
+test/users_test.exs:8:1: W: Line length should not exceed 80 chars (was 90).
+spec/fixtures/test.exs:2:1: W: Line length should not exceed 80 chars (was 90).
